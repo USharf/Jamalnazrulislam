@@ -19,6 +19,7 @@ html {
   h1 {
     font-size: 4rem;
     margin-bottom: 0;
+      font-family: 'Anton', sans-serif;
   }
   h1 :hover {
                    color: bisque;
