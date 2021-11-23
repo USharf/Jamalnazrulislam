@@ -33,7 +33,7 @@ html {
   
   
   h2 {
-    font-family: 'Gochi Hand', cursive;
+      font-family: 'Outfit', sans-serif;
     font-size: 2.25rem;
   }
   
@@ -76,7 +76,7 @@ html {
   #img-caption {
     margin: 15px 0 5px 0;
    color: azure;
-   font-family: 'Gochi Hand', cursive;
+font-family: 'Outfit', sans-serif;
    font-size: 20px;
 
   }
