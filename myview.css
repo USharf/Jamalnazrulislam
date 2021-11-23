@@ -75,9 +75,11 @@ html {
     padding-right: -100px;
       box-shadow: 15px 10px #888888;
       border-radius: 15px;
+      animation: mymove 8s infinite;
       
   }
-  
+  @keyframes mymove {
+  50% {box-shadow: 10px 20px 30px grey;}
   #img-caption {
     margin: 15px 0 5px 0;
    color: azure;
