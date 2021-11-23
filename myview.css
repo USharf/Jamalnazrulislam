@@ -7,7 +7,6 @@ html {
   }
   
   body {
-    /* Native font stack https://getbootstrap.com/docs/4.2/content/reboot/#native-font-stack */
    font-family: 'Outfit', sans-serif;
     
     font-size: 1.6rem;
@@ -51,6 +50,7 @@ html {
     padding: 15px;
     border-radius: 5px;
     background: rgb(212, 188, 188);
+      border-radius: 30%;
   }
   
   @media (max-width: 460px) {
