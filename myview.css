@@ -76,7 +76,7 @@ html {
     padding-right: -100px;
       box-shadow: 15px 10px #888888;
       border-radius: 15px;
-      animation: mymove 8s infinite;
+      animation: mymove 5s infinite;
       
   }
   @keyframes mymove {
